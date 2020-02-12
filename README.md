@@ -1,4 +1,4 @@
-# December2018_Computer-Vision
+# December 2018 Computer-Vision Projects
 Computer Vision Projects December 2018/ January 2019 including
 Emotion Detection
 Fruit Classification
